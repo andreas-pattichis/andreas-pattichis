@@ -6,7 +6,7 @@
 
 - 🌱 BSc Computer Science, University of Cyprus (Expected date of graduation : 2023) 
 
-- 📫 How to reach me **andreas.t.pattichis@gmail.com**
+- 📫 How to reach me **apatti01@ucy.ac.cy**
 
 - 🧑‍💼 Currently looking for an internship as a software engineer.
 
