@@ -1,7 +1,7 @@
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h1 align="center">Hi 👋, I'm Andreas Pattichis</h1>
 <h3 align="center">Student at University of Cyprus, Nicosia.</h3>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 BSc Computer Science, University of Cyprus (Expected date of graduation : 2023) 
