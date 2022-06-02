@@ -12,7 +12,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apatti01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="apatti01" /></p> -->
 
-![Apatti01's github stats](https://github-readme-stats.vercel.app/api?username=apatti01&show_icons=true&theme=tokyonight)
+<span>                                           </span>![Apatti01's github stats](https://github-readme-stats.vercel.app/api?username=apatti01&show_icons=true&theme=tokyonight)
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=apatti01&theme=tokyonight" alt="mystreak"/> -->
 
