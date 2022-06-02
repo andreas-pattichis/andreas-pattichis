@@ -16,7 +16,7 @@
 
 ![Apatti01's github stats](https://github-readme-stats.vercel.app/api?username=apatti01&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apatti01&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=apatti01&theme=tokyonight" alt="mystreak"/> -->
 <br>
 <!-- ![Apatti01's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apatti01&theme=tokyonight&layout=compact)
 <br> -->
