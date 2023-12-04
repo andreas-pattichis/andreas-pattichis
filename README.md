@@ -4,7 +4,7 @@
 <h3 align="center">Erasmus Mundus Scholar | MSc Student on Artificial Intelligence.</h3>
 
 
-- 🧑‍💼 MSc Artificial Intelligence, EMAI (Erasmus Mundus Master on Artificial Intelligence)
+- 🧑‍💼 MSc Artificial Intelligence, EMAI (Erasmus Mundus Master on Artificial Intelligence) - Expected Graduation Year 2025
 
 - 📫 How to reach me **andreas.pattichis@outlook.com**
 
