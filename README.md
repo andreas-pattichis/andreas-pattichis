@@ -14,20 +14,26 @@
 
 ---
 
-### 🎓 Education
+<h3 align="center">🎓 Education</h3>
 
-- 🧑‍💼 **MSc in Artificial Intelligence**<br/>
-  [EMAI (Erasmus Mundus Master on Artificial Intelligence)](https://www.upf.edu/web/emai/about-this-master)<br/>
+<p align="center">
+  🤖🧠 <strong>MSc in Artificial Intelligence</strong><br/>
+  <a href="https://www.upf.edu/web/emai/about-this-master">EMAI (Erasmus Mundus Master on Artificial Intelligence)</a><br/>
   Expected Graduation: 2025
+</p>
 
-- 🎓 **BSc in Computer Science** (Specialization in Artificial Intelligence)<br/>
-  [University of Cyprus](https://www.cs.ucy.ac.cy/index.php/education/undergrad)<br/>
+<p align="center">
+  👨🏽‍🎓💻 <strong>BSc in Computer Science</strong> (Specialization in Artificial Intelligence)<br/>
+  <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">University of Cyprus</a><br/>
   Graduation Year: 2023
+</p>
 
-### 📫 How to Reach Me
+<h3 align="center">📫 How to Reach Me</h3>
 
-- **Email:** andreas.pattichis@outlook.com
-- **LinkedIn:** [andreas-pattichis](https://www.linkedin.com/in/andreas-pattichis/)
+<p align="center">
+  <strong>Email:</strong> andreas.pattichis@outlook.com<br/>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andreas-pattichis/">andreas-pattichis</a>
+</p>
 
 <!-- Uncomment the lines below to display GitHub stats and streaks -->
 
@@ -35,5 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apatti01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="apatti01" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apatti01&theme=tokyonight&layout=compact" alt="Apatti01's Top Langs"/> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apatti01&theme=tokyonight&layout=compact" alt="Apatti01's Top Langs"/>
+</p> -->
+
 
