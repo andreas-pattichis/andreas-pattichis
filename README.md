@@ -28,15 +28,6 @@
   Graduation Year: 2023
 </p>
 
----
-
-<h3 align="left">📫 How to Reach Me</h3>
-
-<p align="left">
-  <strong>Email:</strong> andreas.pattichis@outlook.com<br/>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andreas-pattichis/">andreas-pattichis</a>
-</p>
-
 <!-- Uncomment the lines below to display GitHub stats and streaks -->
 
 <!-- <p align="center">
