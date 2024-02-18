@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left"><strong>Erasmus Mundus Scholar | MSc Student in Artificial Intelligence</strong></h3>
+<h3 align="left"><strong>🎓 Education</strong></h3>
 
 <p align="left">
   🧠 <strong>MSc in Artificial Intelligence</strong><br/>
