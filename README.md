@@ -14,24 +14,24 @@
 
 ---
 
-<h3 align="center">🎓 Education</h3>
+<h3 align="left">🎓 Education</h3>
 
-<p align="center">
-  🤖🧠 <span style="font-size: larger;"><strong>MSc in Artificial Intelligence</strong></span><br/>
+<p align="left">
+  🤖🧠 <strong>MSc in Artificial Intelligence</strong><br/>
   <a href="https://www.upf.edu/web/emai/about-this-master">EMAI (Erasmus Mundus Master on Artificial Intelligence)</a><br/>
   Expected Graduation: 2025
 </p>
 
-<p align="center">
-  👨🏽‍🎓💻 <span style="font-size: larger;"><strong>BSc in Computer Science</strong></span> (Specialization in Artificial Intelligence)<br/>
+<p align="left">
+  👨🏽‍🎓💻 <strong>BSc in Computer Science</strong>(Specialization in Artificial Intelligence)<br/>
   <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">University of Cyprus</a><br/>
   Graduation Year: 2023
 </p>
 
 
-<h3 align="center">📫 How to Reach Me</h3>
+<h3 align="left">📫 How to Reach Me</h3>
 
-<p align="center">
+<p align="left">
   <strong>Email:</strong> andreas.pattichis@outlook.com<br/>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andreas-pattichis/">andreas-pattichis</a>
 </p>
