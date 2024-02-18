@@ -12,15 +12,15 @@
 
 ---
 
-<h3 align="left"><strong>🎓 Education</strong></h3>
+<h3 align="justify"><strong>🎓 Education</strong></h3>
 
-<p align="left">
+<p align="justify">
   🧠 <strong>MSc in Artificial Intelligence</strong><br/>
   <a href="https://www.upf.edu/web/emai/about-this-master">EMAI (Erasmus Mundus Master on Artificial Intelligence)</a><br/>
   Expected Graduation: July 2025
 </p>
 
-<p align="left">
+<p align="justify">
   💻 <strong>BSc in Computer Science</strong> (Specialization in Artificial Intelligence)<br/>
   <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">University of Cyprus</a><br/>
   Graduation Date: June 2023
