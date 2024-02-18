@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  💻 <strong>BSc in Computer Science</strong> (Specialization in Artificial Intelligence)<br/> 
+  💻 <strong>BSc in Computer Science</strong><br/> 
   <u>Bachelor's Program:</u> <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">University of Cyprus</a><br/>
   <u>Graduation Date:</u> June 2023
 </p>
