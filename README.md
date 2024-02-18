@@ -17,16 +17,17 @@
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  🤖🧠 <strong>MSc in Artificial Intelligence</strong><br/>
+  🤖🧠 <span style="font-size: larger;"><strong>MSc in Artificial Intelligence</strong></span><br/>
   <a href="https://www.upf.edu/web/emai/about-this-master">EMAI (Erasmus Mundus Master on Artificial Intelligence)</a><br/>
   Expected Graduation: 2025
 </p>
 
 <p align="center">
-  👨🏽‍🎓💻 <strong>BSc in Computer Science</strong> (Specialization in Artificial Intelligence)<br/>
+  👨🏽‍🎓💻 <span style="font-size: larger;"><strong>BSc in Computer Science</strong></span> (Specialization in Artificial Intelligence)<br/>
   <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">University of Cyprus</a><br/>
   Graduation Year: 2023
 </p>
+
 
 <h3 align="center">📫 How to Reach Me</h3>
 
