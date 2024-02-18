@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left"><strong>🎓 Education</strong></h2>
+<h2 align="left"><strong>🎓 Education</strong></h2>
 
 <p align="left">
   🧠 <strong>MSc in Artificial Intelligence</strong><br/> 
