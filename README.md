@@ -28,6 +28,7 @@
   Graduation Year: 2023
 </p>
 
+---
 
 <h3 align="left">📫 How to Reach Me</h3>
 
