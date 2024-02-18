@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250" />
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="450" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Andreas Pattichis</h1>
