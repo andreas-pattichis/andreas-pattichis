@@ -10,18 +10,4 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350" />
 </p>
 
----
 
-<h2 align="left"><strong>🎓 Education</strong></h2>
-
-<p align="left">
-  🧠 <strong>MSc in Artificial Intelligence</strong><br/> 
-  <strong> Master's Program: </strong> <a href="https://www.upf.edu/web/emai/about-this-master">EMAI (Erasmus Mundus Master on Artificial Intelligence)</a><br/>
-  <strong> Expected Graduation: </strong> July 2025
-</p>
-
-<p align="left">
-  💻 <strong>BSc in Computer Science</strong><br/> 
-  <strong> Bachelor's Program: </strong> <a href="https://www.cs.ucy.ac.cy/index.php/education/undergrad">Computer Science Bachelor at UCY</a><br/>
-  <strong> Graduation Date: </strong> June 2023
-</p>
