@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&random=false&width=435&lines=Hello!%F0%9F%91%8B;I'm+Andreas+Pattichis;Welcome+to++my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hello!%F0%9F%91%8B;I'm+Andreas+Pattichis;Welcome+to++my+GitHub+Profile!)](https://git.io/typing-svg)
+
 <h3 align="center">Erasmus Mundus Scholar | MSc Student in Artificial Intelligence</h3>
 
 <p align="center">
