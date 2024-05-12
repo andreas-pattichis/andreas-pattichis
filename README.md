@@ -10,6 +10,3 @@
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350" />
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreas-pattichis&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="andreas-pattichis" /></p>
