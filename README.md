@@ -10,13 +10,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="Animation"/>
-</p>
-
 <div align="center">
   <strong>Welcome to my GitHub profile!</strong>
   <br/>
   I'm currently pursuing a Master's in Artificial Intelligence as an Erasmus Mundus scholar and am passionate about developing solutions that leverage AI to solve real-world problems. Feel free to connect with me or send me an email if you're interested in collaborating!
   <br/><br/>
 </div>
+
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="Animation"/>
+</p>
+
+
