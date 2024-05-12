@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <h4>Welcome to my GitHub profile!</h4>
+  <h5>Welcome to my GitHub profile!</h5>
   <br/>
   I'm currently pursuing a Master's in Artificial Intelligence as an Erasmus Mundus scholar and am passionate about developing solutions that leverage AI to solve real-world problems. Feel free to connect with me or send me an email if you're interested in collaborating!
   <br/><br/>
