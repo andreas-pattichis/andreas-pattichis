@@ -42,12 +42,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=jax&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=deep-learning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=natural-language-processing&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=computer-vision&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clingo-000000?style=for-the-badge&logo=clingo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
