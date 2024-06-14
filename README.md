@@ -3,13 +3,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:andreas.pattichis@outlook.com">
-    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="50" alt="Email"/>
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" style="margin-right: 10px;"/>
   </a>
 </p>
-
 
 
 
