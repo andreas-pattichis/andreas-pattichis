@@ -28,9 +28,6 @@
 🤝 I’m looking to collaborate on projects that leverage AI for innovative solutions.<br>
 
 ---
-
-## 🛠️ Skills & Technologies
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
