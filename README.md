@@ -21,9 +21,40 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="Animation"/>
 </p>
 
+---
 
-## Activity Graph
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andreas-pattichis&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="Andreas Pattichis GitHub Trophies"/>
+</p>
+
+### 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreas-pattichis&show_icons=true&theme=radical" alt="Andreas Pattichis GitHub stats"/>
+</p>
+
+### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-pattichis&layout=compact&theme=radical" alt="Andreas Pattichis Top Languages"/>
+</p>
+
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis GitHub Activity Graph"/>
 </p>
 
+### 🔥 Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis GitHub Contributor Stats"/>
+</p>
+
+### 🌟 Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+</p>
+
+### 🌐 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andreas-pattichis&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
