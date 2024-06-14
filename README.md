@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v2.gif" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-pattichis/"/>
   </a>
   <a href="mailto:andreas.pattichis@outlook.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.gif" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreas.pattichis@outlook.com"/>
   </a>
 </p>
 
