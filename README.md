@@ -2,26 +2,50 @@
 <h3 align="center"> MSc in Artificial Intelligence @EMAI | Erasmus Mundus Scholar </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andreas-pattichis/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:andreas.pattichis@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
-  <strong>Welcome to my GitHub profile!</strong>
-    <br/><br/>
-  I am currently pursuing a Master’s degree in Artificial Intelligence as an Erasmus Mundus scholar. I have a strong passion for developing solutions that utilize AI to address real-world problems. If you’re interested in collaborating, please feel free to connect with me or send me an email!
-  <br/><br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Animation"/>
 </div>
+
+---
+
+## 🌟 About Me
+
+🎓 I'm currently pursuing a Master's degree in Artificial Intelligence as an Erasmus Mundus scholar.<br>
+💡 I have a passion for developing AI solutions to address real-world problems.<br>
+🤝 I’m looking to collaborate on projects that leverage AI for innovative solutions.<br>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</div>
+
+---
 
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="Animation"/>
 </p>
 
 ---
+
 
 ### 🌟 Summary Cards
 <p align="center">
