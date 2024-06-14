@@ -23,13 +23,6 @@
 
 ---
 
-
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis GitHub Activity Graph"/>
-</p>
-
 ### 🌟 Summary Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Profile Details"/>
