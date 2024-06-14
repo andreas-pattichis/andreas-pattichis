@@ -21,15 +21,6 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" alt="Animation"/>
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreas-pattichis&show_icons=true&theme=radical" alt="Andreas Pattichis GitHub stats"/>
-</p>
-
-## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-pattichis&layout=compact&theme=radical" alt="Andreas Pattichis Top Languages"/>
-</p>
 
 ## Activity Graph
 <p align="center">
