@@ -2,10 +2,10 @@
 <h3 align="center"> MSc in Artificial Intelligence @EMAI | Erasmus Mundus Scholar </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 15px;"/>
+  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank" class="icon-container">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:andreas.pattichis@outlook.com">
+  <a href="mailto:andreas.pattichis@outlook.com" class="icon-container">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
   </a>
 </p>
