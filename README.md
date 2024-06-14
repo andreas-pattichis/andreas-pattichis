@@ -36,7 +36,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis GitHub Activity Graph"/>
 </p>
 
-## Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis GitHub Contributor Stats"/>
-</p>
