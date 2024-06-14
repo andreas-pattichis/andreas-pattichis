@@ -1,40 +1,15 @@
 <h1 align="center">👋 Hello, I'm Andreas Pattichis</h1>
 <h3 align="center"> MSc in Artificial Intelligence @EMAI | Erasmus Mundus Scholar </h3>
 
-<style>
-  .button {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 20px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    outline: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 15px;
-    box-shadow: 0 9px #999;
-    transition: 0.3s;
-  }
-
-  .button:hover {background-color: #3e8e41}
-
-  .button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
-  }
-</style>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank" class="button">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/> LinkedIn
+  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v2.gif" alt="LinkedIn"/>
   </a>
-  <a href="mailto:andreas.pattichis@outlook.com" class="button">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/> Email
+  <a href="mailto:andreas.pattichis@outlook.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.gif" alt="Email"/>
   </a>
 </p>
+
 
 
 
