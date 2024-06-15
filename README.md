@@ -36,7 +36,7 @@
 ---
 
 
-### 🌟 Summary Cards
+## 🌟 Summary Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Profile Details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Repos per Language"/>
