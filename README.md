@@ -12,13 +12,7 @@
 
 
 
----
 
-## 🌟 About Me
-
-🎓 I'm currently pursuing a Master's degree in Artificial Intelligence as an Erasmus Mundus scholar.<br>
-💡 I have a passion for developing AI solutions to address real-world problems.<br>
-🤝 I’m looking to collaborate on projects that leverage AI for innovative solutions.<br>
 
 ---
 ## 🛠️ Skills & Technologies
