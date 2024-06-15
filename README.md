@@ -46,9 +46,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Profile Details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Most Commit Language"/>
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Most Commit Language"/> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreas-pattichis&theme=dracula&utcOffset=8" alt="Andreas Pattichis Productive Time"/>
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreas-pattichis&theme=dracula&utcOffset=8" alt="Andreas Pattichis Productive Time"/> -->
 </p>
 
 
