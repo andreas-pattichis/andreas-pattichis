@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Andreas Pattichis</h1>
-<h3 align="center"> MSc in Artificial Intelligence @EMAI | Erasmus Mundus Scholar </h3>
+<h3 align="center"> MSc in Artificial Intelligence (EMAI) @UPF | Erasmus Mundus Scholar </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
