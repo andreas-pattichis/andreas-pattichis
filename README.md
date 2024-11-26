@@ -15,8 +15,6 @@ I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passio
 - Focusing on creating a scalable, efficient solution with a significant impact on pediatric healthcare.  
 - Pushing the boundaries of **AI in medical imaging diagnostics**, contributing to innovative methods for anomaly detection and segmentation in 3D imaging.  
 
----
-
 ## 📫 Let’s Connect  
 - **Email**: [andreas.pattichis@outlook.com](mailto:andreas.pattichis@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/andreas-pattichis](https://www.linkedin.com/in/andreas-pattichis)  
