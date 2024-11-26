@@ -13,7 +13,6 @@ I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passio
 - Collaborating with **Children’s National Hospital in Washington, D.C.** to develop an affordable 3D facial scanning tool for the **early detection of craniofacial anomalies** in infants, improving accessibility to pediatric diagnostics.  
 - Working on **state-of-the-art AI techniques** including **Vector Quantized Variational Autoencoders (VQ-VAE)**, **transformers**, and **3D Morphable Models (3DMMs)** for precise analysis of 3D baby face scans.
 - Focusing on creating a scalable, efficient solution with a significant impact on pediatric healthcare.  
-- Pushing the boundaries of **AI in medical imaging diagnostics**, contributing to innovative methods for anomaly detection and segmentation in 3D imaging.  
 
 ## 📫 Let’s Connect  
 - **Email**: [andreas.pattichis@outlook.com](mailto:andreas.pattichis@outlook.com)  
