@@ -1,27 +1,25 @@
-<h1 align="center">👋 Hello, I'm Andreas Pattichis</h1>
-<h3 align="center"> MSc in Artificial Intelligence (EMAI) @UPF | AI Scientist in Medical Imaging </h3>
+# 👋 Welcome to My GitHub Profile!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andreas-pattichis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:andreas.pattichis@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## About Me  
+I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passionate about leveraging AI to solve real-world challenges.
 
+🌍 Currently based in **Barcelona, Spain**, and open to global opportunities.  
 
+🎓 **Erasmus Mundus Joint Master in Artificial Intelligence (EMAI)**  
+- Fully-funded scholarship recipient.  
+- Gaining diverse expertise through studies at top universities across Europe.
 
-
+🚀 **Current Role: AI Research Scientist Intern in Medical Imaging**  
+- Collaborating with **Children’s National Hospital in Washington, D.C.** to develop an affordable 3D facial scanning tool for the **early detection of craniofacial anomalies** in infants, improving accessibility to pediatric diagnostics.  
+- Working on **state-of-the-art AI techniques** including **Vector Quantized Variational Autoencoders (VQ-VAE)**, **transformers**, and **3D Morphable Models (3DMMs)** for precise analysis of 3D baby face scans.
+- Focusing on creating a scalable, efficient solution with a significant impact on pediatric healthcare.  
+- Pushing the boundaries of **AI in medical imaging diagnostics**, contributing to innovative methods for anomaly detection and segmentation in 3D imaging.  
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Repos per Language"/>
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Most Commit Language"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreas-pattichis&theme=dracula" alt="Andreas Pattichis Stats"/>
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreas-pattichis&theme=dracula&utcOffset=8" alt="Andreas Pattichis Productive Time"/> -->
-</p>
+## 📫 Let’s Connect  
+- **Email**: [andreas.pattichis@outlook.com](mailto:andreas.pattichis@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/andreas-pattichis](https://www.linkedin.com/in/andreas-pattichis)  
+- **GitHub**: [github.com/andreas-pattichis](https://github.com/andreas-pattichis)  
 
-
+Feel free to explore my repositories and reach out for collaborations or discussions on AI and tech!
