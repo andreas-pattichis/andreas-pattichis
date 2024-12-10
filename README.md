@@ -5,11 +5,11 @@ I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passio
 
 🌍 Currently based in **Barcelona, Spain**, and open to global opportunities.  
 
-🎓 **MSc in AI @ EMAI**  
+### 🎓 **MSc in AI @ EMAI**  
 - Fully-funded scholarship recipient.  
 - Gaining diverse expertise through studies at top universities across Europe.
 
-🚀 **Current Role: AI Research Scientist in Medical Imaging @ UPF**  
+### 🚀 **Current Role: AI Research Scientist in Medical Imaging @ UPF**  
 - Integrated AI-driven models into clinical pipelines to create non-invasive diagnostic tools for pediatric healthcare.
 - Addressed challenges in 3D craniofacial anomaly detection for infants, focusing on developmental variability and limited datasets.
 - Integrated advanced AI methodologies (Spiral Autoencoders, SVAE, SVQ-VAE) for enhanced 3D baby face analysis.
