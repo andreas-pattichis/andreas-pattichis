@@ -6,7 +6,7 @@ I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passio
 🌍 Currently based in **Barcelona, Spain**, and open to global opportunities.  
 
 ### 🎓 **MSc in AI @ EMAI**  
-- Fully-funded scholarship recipient.  
+- **Fully-funded scholarship** recipient.  
 - Gaining diverse expertise through studies at top universities across Europe.
 
 ### 🚀 **Current Role: AI Research Scientist in Medical Imaging @ UPF**  
