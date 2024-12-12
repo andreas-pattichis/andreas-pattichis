@@ -10,12 +10,10 @@ I’m **Andreas Pattichis**, an MSc candidate in Artificial Intelligence, passio
 - Gaining diverse expertise through studies at top universities across Europe.
 
 ### 🚀 **Current Role: AI Research Scientist in Medical Imaging @ UPF**  
-- Integrated AI-driven models into clinical pipelines to create non-invasive diagnostic tools for pediatric healthcare.
-- Addressed challenges in 3D craniofacial anomaly detection for infants, focusing on developmental variability and limited datasets.
-- Integrated advanced AI methodologies (Spiral Autoencoders, SVAE, SVQ-VAE) for enhanced 3D baby face analysis.
-- Researched 3D mesh processing using GNNs and spiral convolution to extract geometric features while maintaining mesh topology.
-- Implemented preprocessing and augmentation techniques (Gaussian noise, random flipping) to improve model robustness.
--  Evaluated models using criteria like reconstruction loss, KL divergence, and vertex anomaly thresholds, achieving high precision in anomaly detection.
+- Worked with Children’s National Hospital in Washington D.C. and UPF to develop a low-cost 3D facial scanning system for early detection of craniofacial anomalies in infants.
+- Explored novel AI methodologies for 3D baby face analysis by integrating Spiral Convolutions with Autoencoder, Variational Autoencoder (VAE), and Vector Quantized Variational Autoencoder (VQ-VAE) to enhance 3D mesh reconstruction and anomaly detection accuracy.
+- Experimented with preprocessing and augmentation techniques, including Gaussian noise injection and random flipping, to enhance model robustness and prevent overfitting
+- Conducted experimental evaluation using multiple anomaly detection criteria (such as reconstruction loss, KL divergence, cosine similarity) to find the most efficient combination for each model.
 
 ## 📫 Let’s Connect  
 - **Email**: [andreas.pattichis@outlook.com](mailto:andreas.pattichis@outlook.com)  
