@@ -13,23 +13,36 @@
 <table>
   <tr>
     <td width="40px" align="center">🔬</td>
-    <td><b>Currently:</b> AI Research Intern @ <b>UNICEF Giga Initiative</b> <i>(mapping infrastructure in underserved regions)</i></td>
+    <td>
+        <b>Currently:</b> <span style="color:#4CAF50;">AI Research Intern</span> @ <b>UNICEF Giga Initiative</b><br>
+        <i>February 2025 – Present</i> <br>
+        • <span style="font-style:italic; color:#555;">Conducting Master’s Thesis (mapping infrastructure in underserved regions)</span><br>
+    </td>
   </tr>
   <tr>
     <td width="40px" align="center">🎓</td>
-    <td><b>MSc in AI:</b> Fully-funded Scholarship @ <b>EMAI</b> <br><i>Expected graduation: July 2025</i><br>
-    • <b>Universitat Pompeu Fabra (UPF)</b>, Barcelona: <i>2023, 2024–2025</i><br>
-    • <b>Radboud University (RU)</b>, Nijmegen: <i>2024</i><br>
-    • Completed EMAI AI Summer School at <b>UCL</b>, London: <i>July 2024</i></td>
+    <td>
+        <b style="color:#4CAF50;">MSc in Artificial Intelligence:</b> Fully-funded Scholarship @ <b>EMAI</b><br>
+        <i>Expected graduation: July 2025</i><br>
+        • <b>Universitat Pompeu Fabra (UPF)</b>, Barcelona: <i>2023, 2024–2025</i><br>
+        • <b>Radboud University (RU)</b>, Nijmegen: <i>2024</i><br>
+        • <span style="color:#555;">Completed EMAI AI Summer School at <b>UCL</b>, London:</span> <i>July 2024</i>
+    </td>
   </tr>
   <tr>
     <td width="40px" align="center">🖥️</td>
-    <td><b>BSc in Computer Science:</b> @ University of Cyprus (<b>UCY</b>)</i><br>
-    • Specialization in Artificial Intelligence<br>
-    • Thesis: "Accelerating Quality-Diversity Algorithms using K-Means Clustering"</i></td>
+    <td>
+        <b style="color:#4CAF50;">BSc in Computer Science:</b> @ <b>University of Cyprus (UCY)</b><br>
+        <i>2019–2023</i><br>
+        • <span style="font-style:italic; color:#555;">Specialization in Artificial Intelligence</span><br>
+        • <span style="color:#555;">Thesis: "Accelerating Quality-Diversity Algorithms using K-Means Clustering"</span>
+    </td>
   </tr>
 </table>
 </div>
+
+
+
 
 
 
