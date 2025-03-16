@@ -64,7 +64,7 @@
 
 
 <details>
-<summary><h2>🌟 Some of my Projects</h2></summary>
+<summary><h2>🌟 Some of my Recent Projects</h2></summary>
 <br>
 
 ### 🐄 CalvAlert: AI-Driven Calving Monitoring System
@@ -85,11 +85,11 @@ Developed an intelligent dialogue system using the MultiWOZ dataset from Hugging
 
 
 <details>
-<summary><h2>🏆 Competition Highlights</h2></summary>
+<summary><h2>🏆 Competition Participations</h2></summary>
 <br>
 
 - **AIMI2024 Grand Challenge (LUNA23)** - Lung cancer detection using advanced deep learning models
-- **PlantTraits2024 Kaggle** - Top-ranking position for plant trait prediction
+- **PlantTraits2024 Kaggle** - One of the top-ranking positions for plant trait prediction
 - **Harmful Brain Activity Classification Kaggle** - Ensemble approach for seizure detection
 - **EUTOPIA Pacman CTF** - AI agents with Q-learning and Bayesian inference
 
