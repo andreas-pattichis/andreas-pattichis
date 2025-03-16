@@ -76,7 +76,7 @@ Developed an intelligent dialogue system using the MultiWOZ dataset from Hugging
 
 - **AIMI2024 Grand Challenge (LUNA23)** - Lung cancer detection using advanced deep learning models
 - **PlantTraits2024 Kaggle** - Top-ranking position for plant trait prediction
-- **Harmful Brain Activity Classification** - Ensemble approach for seizure detection
+- **Harmful Brain Activity Classification Kaggle** - Ensemble approach for seizure detection
 - **EUTOPIA Pacman CTF** - AI agents with Q-learning and Bayesian inference
 
 </details>
