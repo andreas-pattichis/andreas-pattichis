@@ -13,17 +13,17 @@
 <table>
   <tr>
     <td width="40px" align="center">🔬</td>
-    <td><b>Currently:</b> AI Research Intern at <b>UNICEF Giga Initiative</b> <i>(mapping infrastructure in underserved regions)</i></td>
+    <td><b>Currently:</b> AI Research Intern @ <b>UNICEF Giga Initiative</b> <i>(mapping infrastructure in underserved regions)</i></td>
   </tr>
   <tr>
     <td width="40px" align="center">🎓</td>
-    <td><b>MSc in AI:</b> Erasmus Mundus Joint Master (1 of 20 global scholarship recipients) <br><i>Expected graduation: July 2025</i><br>
+    <td><b>MSc in AI:</b> Fully-funded Scholarship @ EMAI <br><i>Expected graduation: July 2025</i><br>
     • Attending UPF, Barcelona (2023, 2024-2025), RU, Nijmegen (2024)<br>
     • Completed EMAI AI Summer School at UCL London (July 2024)</td>
   </tr>
   <tr>
     <td width="40px" align="center">🖥️</td>
-    <td><b>BSc in Computer Science:</b> University of Cyprus (UCY)</i><br>
+    <td><b>BSc in Computer Science:</b> @ University of Cyprus (UCY)</i><br>
     • Specialization in Artificial Intelligence<br>
     • Thesis: "Accelerating Quality-Diversity Algorithms using K-Means Clustering"</i></td>
   </tr>
