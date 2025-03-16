@@ -70,7 +70,7 @@
 ### 🐄 CalvAlert: AI-Driven Calving Monitoring System
 Leading development of a computer vision solution to monitor calving stages in real-time, alert farmers of critical events, and improve farm efficiency. Collaborating directly with farmers to address real-world agricultural challenges.
 
-### 🐕 DogEye: Veterinary Diagnostic AI
+### 🐕 Puptics: Veterinary Diagnostic AI for Dog Eye Condition Detection
 Currently developing a computer vision system that detects and segments dog eye conditions, providing immediate diagnosis and treatment recommendations. Combines instance segmentation with expert diagnostic reccomendations to identify conditions like cataracts, glaucoma, and conjunctivitis.
 
 ### 🧬 RNA-Seq Disease Classification for Biomarker Discovery
