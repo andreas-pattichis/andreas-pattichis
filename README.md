@@ -49,19 +49,18 @@
 ## <div align="center">💡 Research Interests</div>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" alt="Deep Learning"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge" alt="Computer Vision"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medical_Imaging-3DDC84?style=for-the-badge" alt="Medical Imaging"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/XAI-0175C2?style=for-the-badge" alt="XAI"/></a>
-  
+  <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-F57C00?style=for-the-badge" alt="Deep Learning"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=for-the-badge" alt="Computer Vision"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Explainable_AI-2E7D32?style=for-the-badge" alt="Explainable AI"/></a>
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Reinforcement_Learning-764ABC?style=for-the-badge" alt="Reinforcement Learning"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI_Agents-FFD700?style=for-the-badge" alt="AI Agents"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NLP-EC4899?style=for-the-badge" alt="NLP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Applied_ML-FFA116?style=for-the-badge" alt="Applied ML"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reinforcement_Learning-6A1B9A?style=for-the-badge" alt="Reinforcement Learning"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Agents-FBC02D?style=for-the-badge" alt="AI Agents"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLP-AD1457?style=for-the-badge" alt="NLP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Applied_ML-F57C00?style=for-the-badge" alt="Applied ML"/></a>
 </div>
+
 
 
 <details>
