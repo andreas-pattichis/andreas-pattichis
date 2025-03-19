@@ -58,7 +58,8 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Reinforcement_Learning-764ABC?style=for-the-badge" alt="Reinforcement Learning"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Applied_ML-EC4899?style=for-the-badge" alt="Applied ML"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Agents-FFD700?style=for-the-badge" alt="AI Agents"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLP-EC4899?style=for-the-badge" alt="Applied ML"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AI_Research-FFA116?style=for-the-badge" alt="AI Research"/></a>
 </div>
 
