@@ -23,7 +23,7 @@
     <td width="40px" align="center">🎓</td>
     <td>
         <b style="color:#4CAF50;">MSc in Artificial Intelligence:</b> Fully-funded Scholarship @ <b>EMAI</b><br>
-        <i>Expected graduation: July 2025</i><br>
+        <i>Expected graduation: September 2025</i><br>
         • <b>Universitat Pompeu Fabra (UPF)</b>, Barcelona: <i>2023, 2024–2025</i><br>
         • <b>Radboud University (RU)</b>, Nijmegen: <i>2024</i><br>
         • <span style="color:#555;">Completed EMAI AI Summer School at <b>UCL</b>, London:</span> <i>July 2024</i>
